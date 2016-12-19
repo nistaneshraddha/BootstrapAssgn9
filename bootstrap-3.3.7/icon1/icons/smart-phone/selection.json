@@ -1,0 +1,71 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M758.746 0h-493.491c-34.013 0-61.692 27.668-61.692 61.692v900.627c0 34.003 27.668 61.681 61.692 61.681h493.491c34.013 0 61.692-27.657 61.692-61.681v-900.638c0-34.013-27.678-61.681-61.692-61.681zM479.785 41.628h95.61c4.262 0 7.71 3.458 7.71 7.71 0 4.262-3.448 7.71-7.71 7.71h-95.61c-4.252 0-7.71-3.448-7.71-7.71 0-4.252 3.458-7.71 7.71-7.71zM450.139 38.847c5.108 0 9.254 4.146 9.254 9.254s-4.146 9.254-9.254 9.254-9.254-4.146-9.254-9.254 4.146-9.254 9.254-9.254zM512 989.31c-10.227 0-18.509-8.281-18.509-18.509 0-10.238 8.281-18.509 18.509-18.509 10.217 0 18.509 8.271 18.509 18.509 0 10.227-8.292 18.509-18.509 18.509zM771.088 933.012h-518.177v-842.024h518.177v842.024z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "smartphone"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        }
+      ],
+      "properties": {
+        "order": 10,
+        "id": 7,
+        "name": "smartphone",
+        "prevSize": 32,
+        "code": 59648
+      },
+      "setIdx": 0,
+      "setId": 2,
+      "iconIdx": 0
+    }
+  ],
+  "height": 1024,
+  "metadata": {
+    "name": "icomoon"
+  },
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon"
+    },
+    "historySize": 100,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}

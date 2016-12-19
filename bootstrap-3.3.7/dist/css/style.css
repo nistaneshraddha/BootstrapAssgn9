@@ -1,0 +1,279 @@
+    /********header**********/
+    
+    .navbar-default .navbar-brand {
+        color: white;
+    }
+    
+    .navbar-brand {
+        float: left;
+        height: 50px;
+        padding: 15px 15px;
+        font-size: 24px;
+        line-height: 24px;
+    }
+    
+    .navbar-default {
+        background-color: #5f5a5a;
+    }
+    
+    .navbar-default .navbar-nav>.active>a {
+        color: #eae4e4;
+        background-color: #797171;
+    }
+    
+    .navbar-default .navbar-nav>li>a {
+        color: #ffebeb;
+    }
+    
+    #diamond {
+        margin-top: -5px;
+    }
+    /********banner**********/
+    
+    .border {
+        text-align: center;
+        border: 2px solid white;
+        margin-left: 20%;
+        margin-right: 20%;
+        color: white;
+        padding: 2%;
+    }
+    
+    a:focus,
+    a:hover {
+        color: white;
+        text-decoration: none;
+    }
+    
+    .textposition {
+        position: relative;
+    }
+    
+    .btmmargin {
+        margin-bottom: 30px;
+    }
+    
+    footer {
+        background-color: #01354e;
+        margin-top: 3%;
+    }
+    
+    .foothead {
+        background-color: #bb2216;
+        padding-bottom: 1%;
+        padding-top: 1%;
+        color: white;
+        text-align: center;
+    }
+    
+    .iframe_a {
+        width: 100%;
+    }
+    
+    .adressmargin1 {
+        margin: 20px;
+        color: white;
+    }
+    
+    .adressmargin2 {
+        margin: 20px;
+        color: white;
+    }
+    
+    .adressmargin3 {
+        margin: 20px;
+        color: white;
+    }
+    
+    .margin1 {
+        margin-left: 50px;
+        margin-top: -55px;
+    }
+    
+    .margin2 {
+        margin-left: 50px;
+        margin-top: -55px;
+    }
+    
+    .margin3 {
+        margin-left: 50px;
+        margin-top: -55px;
+    }
+    
+    h5 {
+        color: #a3bbc7;
+    }
+    
+    .copyrightborder {
+        margin-top: 1px;
+        /* color: red; */
+        background-color: #01354e;
+    }
+    
+    .contentbackground {
+        background-color: white;
+        margin: 2%;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        color: black;
+        border: 1px solid #dccece
+    }
+    
+    .contentwrapper {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-right: 20%;
+        margin-left: 13%;
+    }
+    
+    #imgcontent1 {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 40%;
+    }
+    
+    #imgcontent2 {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 40%;
+    }
+    
+    #imgcontent3 {
+        margin-top: 5%;
+        margin-bottom: 5%;
+        margin-left: 40%;
+    }
+    
+    .contentalign {
+        text-align: center;
+    }
+    
+    .contentalign1 {
+        text-align: center;
+        margin-bottom: 15%;
+    }
+    
+    .textalign {
+        text-align: center;
+        border: 1px solid black;
+        margin-left: 30%;
+        margin-right: 30%;
+        color: black;
+        padding: 2%;
+    }
+    
+    .about {
+        text-align: center;
+    }
+    
+    .textdec {
+        color: #bb2216;
+        font-size: 20px;
+    }
+    
+    .margintext {
+        margin-left: 1px;
+    }
+    
+    .textcolor {
+        color: darkslategrey;
+        text-align: center;
+    }
+    
+    .textcolor1 {
+        color: darkslategrey;
+        text-align: center;
+        font-size: 18px;
+    }
+    
+    .carousel-inner>.item>img,
+    .carousel-inner>.item>a>img {
+        margin: auto;
+    }
+    
+    .testback {
+        background-color: white;
+    }
+    
+    .carousel-indicators li {
+        border: 1px solid black;
+    }
+    
+    .underline {
+        height: 2px;
+        width: 10%;
+        background-color: red;
+        /* margin: 40px; */
+        margin-left: 45%;
+        margin-bottom: 5%;
+    }
+    
+    .secmargin {
+        margin-top: 38px;
+        margin-bottom: 40px;
+    }
+    
+    .testimonalimg {
+        width: 10%;
+    }
+    
+    .testisec {
+        margin-top: 10px;
+    }
+    
+    .indicatormargin {
+        margin-bottom: 45px;
+    }
+    
+    .active1 {
+        background-color: red;
+    }
+    
+    .listsection1 {
+        list-style-type: none;
+        overflow: hidden;
+    }
+    
+    #inlineid {
+        display: inline;
+        text-align: center;
+        color: darkslategrey;
+        background-color: red;
+    }
+    
+    .inlineid {
+        display: inline;
+        text-align: center;
+        color: darkslategrey;
+        padding: 10px;
+        margin: 10px;
+    }
+    
+    .marginlist {
+        margin-top: 2%;
+    }
+    
+    .webtextcolor {
+        color: white;
+        margin-left: 10px;
+    }
+    
+    .webtextcolor1 {
+        color: darkslategrey;
+    }
+    
+    @media (max-width: 766px) {
+        #listsection1 li {
+            display: block !important;
+        }
+    }
+    
+    #inlineid {
+        padding: 10px;
+        margin: 10px;
+    }
+    
+    .infocolor {
+        color: #567575;
+    }
